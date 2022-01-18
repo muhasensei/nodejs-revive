@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "simple node js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhasensei/nodejs-revive"
+  },
+  "author": "Zhanuzakov Mukhit <zhanmuha01@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhasensei/nodejs-revive/issues"
+  },
+  "homepage": "https://github.com/muhasensei/nodejs-revive#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
